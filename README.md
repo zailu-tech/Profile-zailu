@@ -1,5 +1,5 @@
-# Profile-zailu
-# Luiza abreu
+
+# 💻 Olá! Eu sou a Luiza 👋
 - Estudante de análise e desenvolvimento de sistemas!
 - aprendendo sobre o mundo da programação!
 
